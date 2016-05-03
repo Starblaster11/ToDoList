@@ -1,16 +1,1 @@
-This will be in semi-code format.
 
-TheMusicalMod
-{
-	Make the MusicalMadBro shoot projectiles.
-}
-
-TheMathematicalMod
-{
-	Add ParabolaProjectile image and projectile AI.
-}
-
-Misc.
-{
-	Ask bluemagic123/Gorateron/jopojelly about self-switching items.
-}
